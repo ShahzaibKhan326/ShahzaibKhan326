@@ -2,12 +2,9 @@
 👋 Hi, I'm Shahzaib Khan
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=JavaScript+Learner;Web+Development+Student;SMIT+Saylani+IT+Trainee&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=JavaScript+Learner;Web+Development+Student;SMIT+Saylani+IT+Student&center=true&width=500&height=45" alt="Typing SVG" />
 </p>Welcome to my GitHub profile!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShahzaibKhan326&show_icons=true" alt="GitHub stats" />
-</p>
 ---
 
 🚀 About Me
@@ -68,6 +65,7 @@ JavaScript 🚀
 📫 Connect With Me
 
 🌐 GitHub: ShahzaibKhan326
+🌎 Gmail : kshahzaib07@gmail.com
 
 
 
