@@ -23,7 +23,7 @@
 ## 🏫 Education & Training
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Saylani_Welfare_International_Trust_Logo.png" width="120" />
+  <img src="https://www.saylanimit.com/_next/image?url=%2Fassets%2Fsaylani_logo.png&w=384&q=75" width="120" />
 </p>
 
 **SMIT – Saylani Mass IT Training**  
