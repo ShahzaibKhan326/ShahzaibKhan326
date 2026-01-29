@@ -1,74 +1,110 @@
-
-👋 Hi, I'm Shahzaib Khan
+# 👋 Hi, I'm Shahzaib Khan  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=JavaScript+Learner;Web+Development+Student;SMIT+Saylani+IT+Student&center=true&width=500&height=45" alt="Typing SVG" />
-</p>Welcome to my GitHub profile!
+  <img src="https://readme-typing-svg.demolab.com/?lines=JavaScript+Developer+in+Progress;Web+Development+Student;Future+Game+Developer;SMIT+Saylani+IT+Student&center=true&width=650&height=45" />
+</p>
+
+<p align="center">
+  💻 Passionate Learner • 🎮 Future Game Developer • 🚀 JavaScript Enthusiast
+</p>
 
 ---
 
-🚀 About Me
+## 🧑‍💻 About Me
 
-🎓 Student & passionate learner
-
-💻 Learning Web Development and Programming
-
-🎮 Interested in Game Development and UI Design
-
-📘 Believe in learning by practice and consistency
-
-
+- 🎓 Student at **SMIT – Saylani Mass IT Training**
+- 💻 Focused on **JavaScript, Web Development & Programming Logic**
+- 🎮 Dreaming to build **games using JavaScript & Canvas**
+- 🎨 Interested in **UI Design & User Experience**
+- 📚 Believe in **daily practice, clean code, and consistency**
 
 ---
 
-🏫 Education & Training
+## 🏫 Education & Training
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Saylani_Welfare_International_Trust_Logo.png" alt="SMIT Logo" width="120" />
-</p>🏫 SMIT – Saylani Mass IT Training
-Learning modern IT skills and programming fundamentals
-
-
-
----
-
-🛠️ Skills
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-5-orange" />
-  <img src="https://img.shields.io/badge/CSS-3-blue" />
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow" />
-  <img src="https://img.shields.io/badge/Git-GitHub-black" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Saylani_Welfare_International_Trust_Logo.png" width="120" />
 </p>
----
 
-📂 Projects
-
-🔹 JavaScript practice programs
-
-🔹 HTML & CSS mini projects
-
-🔹 Learning-based experiments
-
-
+**SMIT – Saylani Mass IT Training**  
+📌 Web Development Fundamentals  
+📌 JavaScript Programming  
+📌 Practical & Project-Based Learning  
 
 ---
 
-🌱 Currently Learning
+## 🛠️ Tech Stack
 
-JavaScript 🚀
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-orange" />
+  <img src="https://img.shields.io/badge/CSS3-blue" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow" />
+</p>
 
-
+### 🧰 Tools & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Git-Version_Control-black" />
+  <img src="https://img.shields.io/badge/GitHub-Projects-181717" />
+  <img src="https://img.shields.io/badge/VS_Code-Editor-blue" />
+</p>
 
 ---
 
-📫 Connect With Me
+## 📂 Featured Work
 
-🌐 GitHub: ShahzaibKhan326
-🌎 Gmail : kshahzaib07@gmail.com
+- 🔹 JavaScript logic & algorithm practice  
+- 🔹 DOM manipulation mini projects  
+- 🔹 HTML & CSS responsive layouts  
+- 🔹 Canvas-based game experiments  
 
-
+> 🧠 *Focused on understanding concepts deeply, not just copying code.*
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🌱 Currently Learning
+
+- 🚀 Advanced **JavaScript & DOM**
+- 🕹️ **Game Development with JavaScript**
+- 🎨 Clean UI structure & layout design
+
+---
+
+## 🛣️ Roadmap
+
+- ✅ HTML & CSS  
+- ✅ JavaScript Basics  
+- 🔄 DOM & Events  
+- 🔜 Canvas & Game Physics  
+- 🔜 Game Engines (Phaser.js)  
+- 🔜 Full-scale Game Projects  
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahzaibKhan326&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShahzaibKhan326&theme=tokyonight" />
+</p>
+
+---
+
+## 🧠 Mindset
+
+> **“Consistency and practice turn beginners into professionals.”**
+
+---
+
+## 📫 Contact
+
+- 🌐 **GitHub:** [ShahzaibKhan326](https://github.com/ShahzaibKhan326)
+- 📧 **Email:** kshahzaib07@gmail.com  
+
+---
+
+⭐ *Thanks for visiting my profile!*  
+Follow my journey as I grow from **student to professional developer** 🚀🔥
